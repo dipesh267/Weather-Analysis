@@ -1,0 +1,65 @@
+body{
+    background-color:lightgrey;
+}
+.header-container{
+    background-color:white;
+}
+p{
+font-family: 'Roboto Slab', serif;
+}
+.landing-h1{
+    padding-top: 5%;
+    font-family: 'Roboto Slab', serif;
+    color:cornflowerblue;
+}
+.comparison-h1{
+    padding-top: 5%;
+    font-family: 'Roboto Slab', serif;
+    font-size: 25px;
+    color:cornflowerblue;
+}
+.navbar{
+    font-family: 'Roboto Slab', serif;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 50px;
+    font-size: 28px;
+    line-height: 20px;
+    margin: 0 0 0 0;
+    color: aliceblue;
+    background-color:cornflowerblue;
+}
+.white{
+    background-color: white;
+}
+
+.landing-fig-lg { 
+    width: 45%;
+}
+.landing-fig-sm {
+    width: 95%;
+}
+
+.sub_header {
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    color: cornflowerblue;
+}
+
+.hr-footer {
+    border: 0;
+    height: 5px;
+    background-color: cornflowerblue;
+}
+
+
+@media screen and (max-width:768px){
+    .primary-content{
+        float: left;
+        width:50%;
+        display: none;
+    }
+}
