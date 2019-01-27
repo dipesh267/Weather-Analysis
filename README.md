@@ -13,4 +13,4 @@ After assembling the dataset, we used Matplotlib to plot various aspects of the 
 
 ## Authors
 
-* **Dipesh Raj Manandhar** - *Initial work* - [PurpleBooth](https://github.com/dipesh267)
+* **Dipesh Raj Manandhar** (https://github.com/dipesh267)
