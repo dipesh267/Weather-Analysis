@@ -15,4 +15,4 @@ After assembling the dataset, we used Matplotlib to plot various aspects of the 
 
 * **Dipesh Raj Manandhar** (https://github.com/dipesh267)
 
-![Screenshot](/relative/path/to/img.jpg?raw=true "Lattitude vs. Temp")
+![Screenshot](Resources/images/latitude_temp.png "Lattitude vs. Temp")
